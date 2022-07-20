@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "David CHEN",
+    "name": "Sylvia CHEN",
     "label": "Student",
-    "picture": "https://sydempsey.github.io/images/dc_photo.png",
+    "picture": "https://sylviachen1.github.io/images/sc_photo.jpeg",
     "email": "guangwei.chen@uon.edu.au",
     "phone": "0469898854",
     "website": "https://david-nsw.github.io",
-    "summary": "I am studying for a PhD in Building at the University of Newcastle. I expect to graduate in Spring, 2021, and plan to find work as a software engineer.",
+    "summary": "I am studying for a PhD in computer Science at the University of Newcastle. I expect to graduate in Winter, 2022, and plan to find work as a Data Scientist.",
     "location": {
       "address": "",
       "postalCode": "2304",
@@ -17,19 +17,19 @@
     "profiles": [
       {
         "network": "github",
-        "username": "davidnsw",
-        "url": "http://github.com/davidnsw"
+        "username": "sylviachen1",
+        "url": "http://github.com/sylviachen1"
       },
       {
         "network": "linkedin",
-        "username": "davidnsw",
-        "url": "https://www.linkedin.com/in/davidnsw/"
+        "username": "sylviachen1",
+        "url": "https://www.linkedin.com/in/sylviachen1/"
       }
     ]
   },
   "interests": [
     {
-      "name": "Creative Media",
+      "name": "Operation research",
       "keywords": [
         "Graphic Design",
         "Videography"
@@ -41,7 +41,7 @@
       ]
     },
     {
-      "name": "Software Engineering",
+      "name": "Lot-sizing and scheduling",
       "keywords": [
       ]
     }

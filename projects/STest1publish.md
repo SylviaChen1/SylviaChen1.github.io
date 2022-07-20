@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/cimp1.png
-title: CIMP Animal Quarantine
+title: Sylvia - Project one - Computer Science
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
 date: 2020-01-10
@@ -10,7 +10,7 @@ labels:
   - SQL
   - Web API
   - Angular CLI
-summary: My team and I designed, programmed, and installed a new queuing and check-in system for the Animal Quarantine Facility at the Daniel K. Inouye International Airport.
+summary: This is a test version of publish. My team and I designed, programmed, and installed a new queuing and check-in system for the Animal Quarantine Facility at the Daniel K. Inouye International Airport.
 ---
 
 <img class="ui large centered image" src="../images/cimp2.png">
