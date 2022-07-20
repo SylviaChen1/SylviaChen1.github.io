@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/cimp1.png
+image: images/1/2018melbourneasor.png
 title: ASOR/DORS 2018 - Runner-up
 permalink: projects/cotton
 # All dates must be YYYY-MM-DD format!
