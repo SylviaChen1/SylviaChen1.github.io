@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/1/selfhealing-concrete.jpg
-title: Prediction of Self-Healing of Engineered Cementitious Composite Using Machine Learning Approaches
+title: Prediction of Self-Healing of ECC
 permalink: projects/SelfhealingECC
 # All dates must be YYYY-MM-DD format!
 date: 2022-05-18
