@@ -7,10 +7,9 @@ permalink: projects/germantrip
 # All dates must be YYYY-MM-DD format!
 date: 2019-05-14
 labels:
-  - Xonix
-  - SFML
-  - C++
-  - Game
+  - Operations Research
+  - Lot-sizing and Scheduling
+  - Industry 4.0
 summary: My partner and I developed a game using C++ as a final project for our EE 205 class.
 ---
 
