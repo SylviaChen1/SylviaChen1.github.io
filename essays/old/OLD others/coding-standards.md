@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: 1essay
 title: Collaborative Standards
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-30

@@ -1,6 +1,6 @@
 ---
 layout: essay
-type: essay
+type: 1essay
 title: Only The Beginning
 # All dates must be YYYY-MM-DD format!
 date: 2020-12-18
