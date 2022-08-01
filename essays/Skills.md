@@ -10,7 +10,7 @@ labels:
   - software
 ---
 
-## Industry experience using C++ and Python
+## Industry experience using C and Python
 Excel+SQL+Python
 I worked as a data analyst at Samsung and Lenovo China, mainly responsible for Data analysis and report writing. The types of data I analyze mainly include: home appliance online business data (Samsung), and Vendor-managed inventory (VMI) Logistics Operations date (Lenovo). The main analysis tool used at that time was Excel+SQL+Python. For enterprise data analysis, especially supply chain data presentation, we mainly use Microsoft Power BI.
 
