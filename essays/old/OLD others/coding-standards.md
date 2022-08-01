@@ -1,5 +1,5 @@
 ---
-layout: essay
+layout: 1essay
 type: 1essay
 title: Collaborative Standards
 # All dates must be YYYY-MM-DD format!

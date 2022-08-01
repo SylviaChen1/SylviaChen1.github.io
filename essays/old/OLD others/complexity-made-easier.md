@@ -1,5 +1,5 @@
 ---
-layout: essay
+layout: 1essay
 type: 1essay
 title: Complexity Made Easier With Patterns
 # All dates must be YYYY-MM-DD format!
